@@ -1,2 +1,1 @@
-# reaticulate-miroslav2
-Reaticulate mapping for IK Multimedia Miroslav Philharmonik 2
+Mapping for IK Multimedia Miroslav Philharmonik for the Reaper plugin [Reaticulate](https://github.com/jtackaberry/reaticulate/).
