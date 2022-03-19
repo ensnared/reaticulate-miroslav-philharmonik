@@ -1,0 +1,1100 @@
+// -------------------------------------------------------------------------
+// Reabank file for Reaticulate - https://reaticulate.com/
+// -------------------------------------------------------------------------
+// Mapping for Miroslav Philharmonik 2 by IK Multimedia
+// Created by Roy W. Andersen <ensnared@gmail.com>
+// v1.0 2022-03-19
+// https://
+// =========================================================================
+
+//! g="IK Multimedia/Miroslav Philharmonik 2" n="Ensemble 14 Violins"
+//! m="Set patch to UACC"
+//! id=7c21ab47-6cb5-4151-b3dd-31fe411c293d
+Bank * * IKMP2 - Ensemble 14 Violins
+
+//! c=long i=sustain o=note:24
+1 Sustain A
+
+//! c=long i=bow-up o=note:25
+2 Sustain up
+
+//! c=long i=sustain o=note:26
+3 Sustain Fortissimo
+
+//! c=novib i=novib o=note:27
+4 No Vibrato Mezzo Forte
+
+//! c=novib i=legato-bowed2 o=note:28
+5 No Vibrato down-up
+
+//! c=long i=legato-bowed2 o=note:29
+6 Sustain down-up
+
+//! c=legato i=legato-bowed o=note:30
+7 Detache 0,4
+
+//! c=legato i=legato-bowed o=note:31
+8 Detache 0,6
+
+//! c=legato i=legato-bowed o=note:32
+9 Detache 1,9
+
+//! c=legato i=legato-bowed o=note:33
+10 Detache 2,0
+
+//! c=legato i=legato-bowed o=note:34
+11 Detache 3,5
+
+//! c=legato-dark i=espressivo o=note:35
+12 Espressivo
+
+//! c=short i=staccato o=note:36
+13 Staccato 0,3
+
+//! c=short i=staccato o=note:37
+14 Staccato Forzato
+
+//! c=short-light i=pizz o=note:38
+15 Pizzicato
+
+//! c=long-dark i=sul-pont o=note:39
+16 Sul Ponte
+
+//! c=long-dark i=tremolo o=note:40
+17 Tremolo
+
+//! c=legato i=legato o=note:41
+18 Legato Slow
+
+//! c=legato i=legato o=note:42
+19 Legato Normal
+
+//! c=legato i=legato o=note:43
+20 Legato Fast
+
+//! g="IK Multimedia/Miroslav Philharmonik 2" n="Ensemble 8 Violas"
+//! m="Set patch to UACC"
+//! id=c68d5804-b2d5-477f-a74b-d9313dd9bc3f
+Bank * * IKMP2 - Ensemble 8 Violas
+
+//! c=long i=sustain o=note:24
+1 Sustain Mezzo Forte
+
+//! c=long i=sustain o=note:25
+2 Sustain Pianissimo
+
+//! c=long i=sustain o=note:26
+3 Sustain Piano
+
+//! c=long i=sustain o=note:27
+4 Sustain Fortissimo
+
+//! c=long i=legato-bowed2 o=note:28
+5 Sustain Down-Up
+
+//! c=legato i=legato-bowed o=note:29
+6 Detache 0,8
+
+//! c=legato i=legato-bowed o=note:30
+7 Detache 1,4
+
+//! c=legato i=legato-bowed o=note:31
+8 Detache 2,5
+
+//! c=legato i=legato-bowed o=note:32
+9 Detache Pianissimo
+
+//! c=legato-dark i=espressivo o=note:33
+10 Espressivo Pianissimo
+
+//! c=legato-dark i=espressivo o=note:34
+10 Espressivo Mezzo Forte
+
+//! c=short-light i=pizz o=note:35
+11 Pizzicato
+
+//! c=short i=staccato o=note:36
+12 Staccato Mezzo Forte
+
+//! c=short i=staccato o=note:37
+13 Staccato Down-Up
+
+//! c=long-dark i=sul-pont o=note:38
+14 Sul Ponte Mezzo Forte
+
+//! c=long-dark i=tremolo o=note:39
+15 Tremolo
+
+//! g="IK Multimedia/Miroslav Philharmonik 2" n="Ensemble 5 Cellos"
+//! m="Set patch to UACC"
+//! id=d93021b6-a494-4194-a60e-7c684d61f750
+Bank * * IKMP2 - Ensemble 5 Cellos
+
+//! c=long i=sustain o=note:84
+1 Sustain A
+
+//! c=long i=sustain o=note:85
+2 Sustain B
+
+//! c=legato-dark i=espressivo o=note:86
+3 Espressivo A
+
+//! c=legato-dark i=espressivo o=note:87
+4 Espressivo B
+
+//! c=legato i=legato o=note:88
+5 Legato
+
+//! c=legato-dark i=legato-fast o=note:89
+6 Legato Fast
+
+//! c=legato-dark i=legato-fast o=note:90
+7 Legato Faster
+
+//! c=long i=sustain o=note:91
+8 Sustain No Vibrato
+
+//! c=legato i=legato-bowed o=note:92
+9 Detache 1,5
+
+//! c=legato i=legato-bowed o=note:93
+10 Detache 1,9
+
+//! c=legato i=legato-bowed o=note:94
+11 Detache 2,5
+
+//! c=legato i=legato-bowed o=note:95
+12 Detache 3,5
+
+//! c=short i=staccato o=note:96
+13 Staccato 0,8
+
+//! c=short i=staccato o=note:97
+14 Staccato Down-Up
+
+//! c=short i=staccato o=note:98
+15 Staccato Short
+
+//! c=long-light i=flautando o=note:99
+16 Flautando
+
+//! c=long-dark i=sul-pont o=note:100
+17 Sul Ponte
+
+//! c=long-dark i=sul-pont o=note:101
+18 Sul Ponte Fortissimo
+
+//! c=long-dark i=sul-pont o=note:102
+19 Sul Ponte Piano
+
+//! c=long-dark i=tremolo o=note:103
+20 Tremolo Piano
+
+//! c=long-dark i=tremolo o=note:104
+21 Tremolo Mezzo Forte
+
+//! c=short-light i=pizz o=note:105
+22 Pizzicato
+
+//! c=legato i=legato o=note:106
+23 Legato Slow
+
+//! c=legato i=legato o=note:107
+24 Legato Mid-Fast
+
+//! g="IK Multimedia/Miroslav Philharmonik 2" n="Ensemble 4 Basses"
+//! m="Set patch to UACC"
+//! id=6e89c3f7-cdf6-4722-baad-3086d91a1299
+Bank * * IKMP2 - Ensemble 4 Basses
+
+//! c=long i=sustain o=note:72
+1 Sustain Mezzo Piano
+
+//! c=long i=sustain o=note:73
+2 Sustain Pianissimo
+
+//! c=long i=sustain o=note:74
+3 Sustain Mezzo Forte
+
+//! c=long i=sustain o=note:75
+4 Sustain Fortissimo
+
+//! c=legato i=legato-bowed o=note:76
+5 Detache 0,7 Down-Up
+
+//! c=legato i=legato-bowed o=note:77
+6 Detache 2,5
+
+//! c=legato i=legato-bowed o=note:78
+7 Detache Piano
+
+//! c=legato i=legato-bowed o=note:79
+8 Detache Mezzo Forte
+
+//! c=short-light i=detache o=note:80
+9 Detache Short Mezzo Piano
+
+//! c=short-light i=detache o=note:81
+10 Detache Short Mezzo Forte
+
+//! c=legato i=legato-bowed o=note:82
+11 Detache Vivaldi
+
+//! c=short i=staccato o=note:83
+12 Staccato Pianissimo
+
+//! c=short i=staccato o=note:84
+13 Staccato Forzato Pianissimo
+
+//! c=short i=staccato o=note:85
+14 Staccato Forzato Mezzo Forte
+
+//! c=short i=staccato o=note:86
+15 Staccato Short Down-Up
+
+//! c=short-light i=pizz o=note:87
+16 Pizzicato Piano
+
+//! c=short-light i=pizz o=note:88
+17 Pizzicato Mezzo Forte
+
+//! c=long-dark i=sul-pont o=note:89
+18 Sul Ponte Piano
+
+//! c=long-dark i=sul-pont o=note:90
+19 Sul Ponte Mezzo Forte
+
+//! c=long-dark i=tremolo o=note:91
+20 Tremolo Piano
+
+//! c=long-dark i=tremolo o=note:92
+21 Tremolo Mezzo Forte
+
+//! g="IK Multimedia/Miroslav Philharmonik 2" n="Solo Violin"
+//! m="Set patch to UACC"
+//! id=723ea4ae-2196-49d0-99bc-be943cafdbe5
+Bank * * IKMP2 - Solo Violin
+
+//! c=long i=sustain o=note:24
+1 Sustain
+
+//! c=legato i=legato-bowed o=note:25
+2 Detache
+
+//! c=legato i=legato o=note:26
+3 Legato Normal
+
+//! c=legato i=legato o=note:27
+4 Legato Fast
+
+//! c=short-light i=staccato o=note:28
+5 Staccato
+
+//! c=short i=spiccato o=note:29
+6 Spiccato
+
+//! c=short-light i=staccato o=note:30
+7 Staccato Spiccato
+
+//! c=long-light i=trill o=note:31
+8 Trill Tone
+
+//! c=long-light i=trill-min2 o=note:32
+9 Trill Semitone
+
+//! c=long-light i=trill-min3 o=note:33
+10 Trill Semitone
+
+//! c=legato i=legato-bowed o=note:34
+11 Violin Detache
+
+//! g="IK Multimedia/Miroslav Philharmonik 2" n="Solo Viola"
+//! m="Set patch to UACC"
+//! id=15aae725-38fc-4f83-a307-b6cbefc4eb9c
+Bank * * IKMP2 - Solo Viola
+
+//! c=long i=sustain o=note:24
+1 Sustain
+
+//! c=long i=sustain o=note:25
+2 Sustain Mood
+
+//! c=long i=sustain o=note:26
+3 Sustain Accents
+
+//! c=legato i=legato-bowed o=note:27
+4 Detache 0,5
+
+//! c=legato i=legato-bowed o=note:28
+5 Detache 1,0
+
+//! c=legato i=legato-bowed o=note:29
+6 Detache 1,8
+
+//! c=legato i=legato o=note:30
+7 Legato
+
+//! c=legato i=legato o=note:31
+8 Legato Slow
+
+//! c=short-light i=staccato o=note:32
+9 Staccato
+
+//! c=short i=spiccato o=note:33
+10 Spiccato
+
+//! g="IK Multimedia/Miroslav Philharmonik 2" n="Solo Cello"
+//! m="Set patch to UACC"
+//! id=e6264836-eeca-4088-9dde-7b423047d7d3
+Bank * * IKMP2 - Solo Cello
+
+//! c=long i=sustain o=note:24
+1 Sustain
+
+//! c=long-light i=espressivo o=note:25
+2 Sustain Espressivo
+
+//! c=legato i=legato-bowed o=note:26
+3 Detache 2,3
+
+//! c=legato i=legato-bowed o=note:27
+4 Detache 1,9
+
+//! c=legato i=legato-bowed o=note:28
+5 Detache 3,5
+
+//! c=legato i=legato-bowed o=note:29
+6 Detache 4,0
+
+//! c=legato i=legato o=note:30
+7 Legato Fast
+
+//! c=short i=spiccato o=note:31
+8 Spiccato
+
+//! c=short-light i=staccato o=note:32
+9 Staccato Mezzo Forte
+
+//! c=short-light i=staccato o=note:33
+10 Staccato Vivaldi
+
+//! c=short i=spiccato o=note:34
+11 Spiccato Fast
+
+
+//! g="IK Multimedia/Miroslav Philharmonik 2" n="Solo Bass"
+//! m="Set patch to UACC"
+//! id=d68d55f3-5194-48de-b2ab-da9d72febf67
+Bank * * IKMP2 - Solo Bass
+
+//! c=long i=sustain o=note:72
+1 Sustain
+
+//! c=long i=sustain o=note:73
+2 Sustain 5,5 Down
+
+//! c=long i=sustain o=note:74
+3 Sustain 5,5 Up
+
+//! c=legato i=legato-bowed o=note:75
+4 Detache 1,0
+
+//! c=legato i=legato-bowed o=note:76
+5 Detache 2,0
+
+//! c=legato i=legato-bowed o=note:77
+6 Detache 2,5
+
+//! c=legato i=legato-bowed o=note:78
+7 Detache 3,0
+
+//! c=fx i=overtone o=note:79
+8 Overtones
+
+//! c=short i=spiccato o=note:80
+9 Spiccato
+
+//! c=short-light i=staccato o=note:81
+10 Staccato Down
+
+//! c=short-light i=staccato o=note:82
+11 Staccato Up
+
+//! c=short-light i=staccato o=note:83
+12 Staccato Wide
+
+//! c=short-light i=pizz o=note:84
+13 Pizzicato Vitous
+
+//! c=short-light i=pizz o=note:85
+14 Pizzicato
+
+//! c=legato i=legato o=note:86
+15 Legato Fast
+
+//! g="IK Multimedia/Miroslav Philharmonik 2" n="Ensemble 3 Trumpets"
+//! m="Set patch to UACC"
+//! id=81a5df6d-6e5f-45a1-90a3-c9cdd8cdc826
+Bank * * IKMP2 - Ensemble 3 Trumpets
+
+//! c=long i=sustain o=note:24
+1 Sustain
+
+//! c=long i=sustain o=note:25
+2 Sustain Fortissimo
+
+//! c=legato i=portato o=note:26
+3 Portato 0,5
+
+//! c=legato i=portato o=note:27
+4 Portato 1,0
+
+//! c=legato i=portato o=note:28
+5 Portato 1,5
+
+//! c=legato i=portato o=note:29
+6 Portato 2,5
+
+//! c=short-light i=staccato o=note:30
+7 Staccato
+
+//! g="IK Multimedia/Miroslav Philharmonik 2" n="Ensemble 4 French Horns"
+//! m="Set patch to UACC"
+//! id=4e9972bc-9073-413d-a8fa-163c94833f22
+Bank * * IKMP2 - Ensemble 4 French Horns
+
+//! c=long i=sustain o=note:24
+1 Sustain
+
+//! c=long i=sustain o=note:25
+2 Sustain Fortissimo
+
+//! c=legato i=portato o=note:26
+3 Portato 1,0
+
+//! c=legato i=portato o=note:27
+4 Portato 2,0
+
+//! c=legato i=portato o=note:28
+5 Portato 3,0
+
+//! c=short-light i=staccato o=note:29
+6 Staccato
+
+//! g="IK Multimedia/Miroslav Philharmonik 2" n="Ensemble 3 Trombones"
+//! m="Set patch to UACC"
+//! id=0e236435-2299-4b77-a930-576e4f40f219
+Bank * * IKMP2 - Ensemble 3 Trombones
+
+//! c=long i=sustain o=note:24
+1 Sustain
+
+//! c=long i=sustain o=note:25
+2 Sustain Fortissimo
+
+//! c=legato i=portato o=note:26
+3 Portato 1,0
+
+//! c=legato i=portato o=note:27
+4 Portato 2,0
+
+//! c=legato i=portato o=note:28
+5 Portato 3,0
+
+//! c=short-light i=staccato o=note:29
+6 Staccato
+
+//! g="IK Multimedia/Miroslav Philharmonik 2" n="Ensemble Trombone and Tuba"
+//! m="Set patch to UACC"
+//! id=ced744f3-27bc-4369-8149-6483d90748a7
+Bank * * IKMP2 - Ensemble Trombone and Tuba
+
+//! c=long i=sustain o=note:48
+1 Sustain
+
+//! c=long i=sustain o=note:49
+2 Sustain Fortissimo
+
+//! c=short-light i=staccato o=note:50
+3 Staccato
+
+//! g="IK Multimedia/Miroslav Philharmonik 2" n="Solo 1st Trumpet"
+//! m="Set patch to UACC"
+//! id=cdb73d65-08e1-4755-bcea-ec75c107c708
+Bank * * IKMP2 - Solo 1st Trumpet
+
+//! c=legato i=portato o=note:24
+1 Portato 3,0
+
+//! c=legato i=portato o=note:25
+2 Portato 2,0
+
+//! c=legato i=portato o=note:26
+3 Portato 1,5
+
+//! c=legato i=legato o=note:27
+4 Legato Fast
+
+//! c=short i=staccato o=note:28
+5 Staccato Mezzo Forte
+
+//! c=short i=staccato o=note:29
+6 Staccato Piano
+
+//! g="IK Multimedia/Miroslav Philharmonik 2" n="Solo 2nd Trumpet"
+//! m="Set patch to UACC"
+//! id=b3f6a945-e41b-47c7-85ab-a1a4b11636e7
+Bank * * IKMP2 - Solo 2nd Trumpet
+
+//! c=long i=sustain o=note:24
+1 Sustain Mezzo Piano 5,0
+
+//! c=long i=sustain o=note:25
+2 Sustain Piano 5,0
+
+//! c=long i=sustain o=note:26
+3 Sustain Mezzo Forte 4,0
+
+//! c=legato i=portato o=note:27
+4 Portato 4,0
+
+//! c=legato i=portato o=note:28
+5 Portato 3,0
+
+//! c=legato i=portato o=note:29
+6 Portato 1,5
+
+//! c=short i=staccato o=note:30
+7 Staccato Mezzo Forte
+
+//! c=short i=staccato o=note:31
+8 Staccato Piano
+
+//! g="IK Multimedia/Miroslav Philharmonik 2" n="Solo French Horn"
+//! m="Set patch to UACC"
+//! id=27f76df6-5b27-4dd0-80e4-932704863f0a
+Bank * * IKMP2 - Solo French Horn
+
+//! c=long i=sustain o=note:84
+1 Sustain 4,0 Mezzo Forte
+
+//! c=long i=sustain o=note:85
+2 Sustain 4,0 Mezzo Piano
+
+//! c=long i=sustain o=note:86
+3 Sustain 4,0 Piano
+
+//! c=legato i=portato o=note:87
+4 Portato Fortissimo
+
+//! c=legato i=portato o=note:88
+5 Portato 3,5 Piano
+
+//! c=short i=staccato o=note:89
+6 Staccato Mezzo Forte
+
+//! c=short i=staccato o=note:90
+7 Staccato Piano
+
+//! g="IK Multimedia/Miroslav Philharmonik 2" n="Solo Trombone"
+//! m="Set patch to UACC"
+//! id=45cb8177-ad1d-4454-bf78-570d27bf67c1
+Bank * * IKMP2 - Solo Trombone
+
+//! c=long i=sustain o=note:24
+1 Sustain 6,0 Mezzo Forte
+
+//! c=long i=sustain o=note:25
+2 Sustain 5,0 Fortissimo
+
+//! c=long i=sustain o=note:26
+3 Sustain 5,0 Piano
+
+//! c=legato i=portato o=note:27
+4 Portato 3,5 Fortissimo
+
+//! c=legato i=portato o=note:28
+5 Portato 2,5
+
+//! c=legato i=portato o=note:29
+6 Portato 1,5
+
+//! c=short i=staccato o=note:30
+7 Staccato Fortissimo
+
+//! c=short i=staccato o=note:31
+8 Staccato Mezzo Forte
+
+//! c=short i=staccato o=note:32
+9 Staccato Piano
+
+//! g="IK Multimedia/Miroslav Philharmonik 2" n="Solo Bass Trombone"
+//! m="Set patch to UACC"
+//! id=930c3b61-cb00-4c9c-878f-4495f6b69be3
+Bank * * IKMP2 - Solo Bass Trombone
+
+//! c=legato i=portato o=note:72
+1 Portato 4,0 Mezzo Forte
+
+//! c=legato i=portato o=note:73
+2 Portato 4,0 Piano
+
+//! c=short i=staccato o=note:74
+3 Staccato Fortissimo
+
+//! c=short i=staccato o=note:75
+4 Staccato Mezzo Forte
+
+//! g="IK Multimedia/Miroslav Philharmonik 2" n="Solo Tuba"
+//! m="Set patch to UACC"
+//! id=a94e4b11-5262-4018-b90d-8379f24249a8
+Bank * * IKMP2 - Solo Tuba
+
+//! c=long i=sustain o=note:84
+1 Sustain 5,0 Piano
+
+//! c=legato i=portato o=note:85
+2 Portato Fortissimo
+
+//! c=legato i=portato o=note:86
+3 Portato 3,0 Mezzo Forte
+
+//! c=short i=staccato o=note:87
+4 Staccato Forte
+
+//! c=short i=staccato o=note:88
+5 Staccato Mezzo Forte
+
+//! c=short i=staccato o=note:89
+6 Staccato Piano
+
+//! c=legato i=legato o=note:90
+7 Legato Fastest
+
+//! c=legato i=legato o=note:91
+8 Legato Fast
+
+//! c=legato i=legato o=note:92
+9 Legato Normal
+
+//! g="IK Multimedia/Miroslav Philharmonik 2" n="Ensemble 3 Flutes"
+//! m="Set patch to UACC"
+//! id=8c07a2f3-8f99-4f2e-af3e-2206041678aa
+Bank * * IKMP2 - Ensemble 3 Flutes
+
+//! c=long i=sustain o=note:24
+1 Sustain
+
+//! c=long i=sustain o=note:25
+2 Sustain Loop
+
+//! c=short i=staccato o=note:26
+3 Staccato Mezzo Forte
+
+//! c=short i=staccato o=note:27
+4 Staccato Mezzo Piano
+
+//! c=short i=staccato o=note:28
+5 Staccato Piano
+
+//! c=legato i=portato o=note:29
+6 Portato 1,0
+
+//! c=legato i=portato o=note:30
+7 Portato 2,0
+
+//! c=legato i=portato o=note:31
+8 Portato 3,0
+
+//! c=legato i=portato o=note:32
+9 Portato 3,5
+
+//! g="IK Multimedia/Miroslav Philharmonik 2" n="Ensemble 3 Piccolos"
+//! m="Set patch to UACC"
+//! id=94ca6051-67ee-4b31-9944-969186db0fcd
+Bank * * IKMP2 - Ensemble 3 Piccolos
+
+//! c=long i=crescendo o=note:24
+1 Crescendo
+
+//! c=short i=staccato o=note:25
+2 Staccato
+
+//! c=legato i=portato o=note:26
+3 Portato
+
+//! g="IK Multimedia/Miroslav Philharmonik 2" n="Ensemble 3 Clarinets"
+//! m="Set patch to UACC"
+//! id=0fdb5bd9-3d91-444b-bb32-739c87b5f715
+Bank * * IKMP2 - Ensemble 3 Clarinets
+
+//! c=long i=sustain o=note:24
+1 Sustain
+
+//! c=long i=sustain o=note:25
+2 Sustain Loop
+
+//! c=short i=staccato o=note:26
+3 Staccato
+
+//! c=short i=staccato o=note:27
+4 Staccato Piano
+
+//! c=short i=staccato o=note:28
+5 Staccato Mezzo Forte
+
+//! c=legato i=portato o=note:29
+6 Portato 1,0
+
+//! c=legato i=portato o=note:30
+7 Portato 1,2
+
+//! c=legato i=portato o=note:31
+8 Portato 2,0
+
+//! c=legato i=portato o=note:32
+9 Portato 3,0
+
+//! c=legato i=portato o=note:33
+10 Portato 3,0 Loop
+
+//! c=legato i=portato o=note:34
+11 Portato 3,5
+
+//! g="IK Multimedia/Miroslav Philharmonik 2" n="Ensemble 3 Oboes"
+//! m="Set patch to UACC"
+//! id=b8841af2-2f56-4e67-afaf-96f907da14dc
+Bank * * IKMP2 - Ensemble 3 Oboes
+
+//! c=long i=sustain o=note:24
+1 Sustain
+
+//! c=long i=sustain o=note:25
+2 Sustain Loop
+
+//! c=short i=staccato o=note:26
+3 Staccato
+
+//! c=short i=staccato o=note:27
+4 Staccato Sharp
+
+//! c=legato i=portato o=note:28
+5 Portato 1,0 Mezzo Forte
+
+//! c=legato i=portato o=note:29
+6 Portato 1,0 Mezzo Piano
+
+//! c=legato i=portato o=note:30
+7 Portato 1,2
+
+//! c=legato i=portato o=note:31
+8 Portato 2,0 Mezzo Forte
+
+//! c=legato i=portato o=note:32
+9 Portato 2,0 Mezzo Forte
+
+//! c=legato i=portato o=note:33
+10 Portato 3,0 Mezzo Forte
+
+//! c=legato i=portato o=note:34
+11 Portato 3,0 Mezzo Piano
+
+//! c=legato i=portato o=note:35
+12 Portato 3,0 Loop
+
+//! c=legato i=portato o=note:36
+13 Portato 4,0
+
+//! g="IK Multimedia/Miroslav Philharmonik 2" n="Ensemble 3 Bassoons"
+//! m="Set patch to UACC"
+//! id=d270fc07-120f-47b8-8288-e0316d5d8d38
+Bank * * IKMP2 - Ensemble 3 Bassoons
+
+//! c=long i=sustain o=note:84
+1 Sustain 6.0
+
+//! c=long i=sustain o=note:85
+2 Sustain 6.0 Loop
+
+//! c=short i=staccato o=note:86
+3 Staccato Mezzo Forte
+
+//! c=short i=staccato o=note:87
+4 Staccato Mezzo Forte Sharp
+
+//! c=short i=staccato o=note:88
+5 Staccato Mezzo Piano Short
+
+//! c=short i=staccato o=note:89
+6 Staccato Mezzo Forte Short
+
+//! c=legato i=portato o=note:90
+7 Portato 1,0
+
+//! c=legato i=portato o=note:91
+8 Portato 2,0
+
+//! c=legato i=portato o=note:92
+9 Portato 3,0
+
+//! c=legato i=portato o=note:93
+10 Portato 3,0 Loop
+
+//! c=legato i=portato o=note:94
+11 Portato 4,0
+
+//! g="IK Multimedia/Miroslav Philharmonik 2" n="Solo Flute"
+//! m="Set patch to UACC"
+//! id=1812103e-9c0c-4439-8683-91eb9dd10bae
+Bank * * IKMP2 - Solo Flute
+
+//! c=long i=sustain o=note:24
+1 Sustain
+
+//! c=short i=staccato o=note:25
+2 Staccato
+
+//! c=legato i=portato o=note:26
+3 Portato 1,5
+
+//! c=legato i=portato o=note:27
+4 Portato 2,5
+
+//! c=legato i=portato o=note:28
+5 Portato 3,5
+
+//! c=legato i=portato o=note:29
+6 Portato 3,5 Loop
+
+//! g="IK Multimedia/Miroslav Philharmonik 2" n="Solo Piccolo"
+//! m="Set patch to UACC"
+//! id=a565b066-1b9a-45e3-8316-4d5e91c48982
+Bank * * IKMP2 - Solo Piccolo
+
+//! c=long i=sustain o=note:24
+1 Sustain
+
+//! c=long i=sustain o=note:25
+2 Sustain Loop
+
+//! c=short i=staccato o=note:26
+3 Staccato
+
+//! c=short i=staccato o=note:27
+4 Staccato Fortissimo
+
+//! c=legato i=portato o=note:28
+5 Portato Fortissimo
+
+//! g="IK Multimedia/Miroslav Philharmonik 2" n="Solo Clarinet"
+//! m="Set patch to UACC"
+//! id=5df7c1ff-4acb-4dc7-ba34-3df4d91592d0
+Bank * * IKMP2 - Solo Clarinet
+
+//! c=long i=sustain o=note:24
+1 Sustain
+
+//! c=long i=sustain o=note:25
+2 Sustain Loop
+
+//! c=short i=staccato o=note:26
+3 Staccato
+
+//! c=short i=staccato o=note:27
+4 Staccato Sharp
+
+//! c=legato i=portato o=note:28
+5 Portato 1,5
+
+//! c=legato i=portato o=note:29
+6 Portato 2,5
+
+//! c=legato i=portato o=note:30
+7 Portato Long
+
+//! c=legato i=portato o=note:31
+8 Portato Long Loop
+
+//! g="IK Multimedia/Miroslav Philharmonik 2" n="Solo Bass Clarinet"
+//! m="Set patch to UACC"
+//! id=a3c1f639-91b8-4711-a06f-667af45a28fe
+Bank * * IKMP2 - Solo Bass Clarinet
+
+//! c=long i=sustain o=note:24
+1 Sustain
+
+//! c=short i=staccato o=note:25
+2 Staccato
+
+//! c=short i=staccato o=note:26
+3 Staccato Forte
+
+//! c=legato i=portato o=note:27
+4 Portato 1,0
+
+//! c=legato i=portato o=note:28
+5 Portato 2,0
+
+//! c=legato i=portato o=note:29
+6 Portato 3,0
+
+//! c=legato i=portato o=note:30
+7 Portato 3,0 Loop
+
+//! c=legato i=legato o=note:31
+8 Legato Fast
+
+//! c=legato i=legato o=note:32
+9 Legato Medium Fast
+
+//! c=legato-dark i=legato o=note:33
+10 Intervals
+
+//! g="IK Multimedia/Miroslav Philharmonik 2" n="Solo Oboe"
+//! m="Set patch to UACC"
+//! id=2d624bf3-a38b-40d4-9e63-8f706bcf2ae3
+Bank * * IKMP2 - Solo Oboe
+
+//! c=long i=sustain o=note:24
+1 Sustain
+
+//! c=long i=sustain o=note:25
+2 Sustain Loop
+
+//! c=short i=staccato o=note:26
+3 Staccato
+
+//! c=short i=staccato o=note:27
+4 Staccato Fortissimo
+
+//! c=legato i=portato o=note:28
+5 Portato 1,5
+
+//! c=legato i=portato o=note:29
+6 Portato 2,5
+
+//! c=legato i=portato o=note:30
+7 Portato 5,0
+
+//! c=legato i=portato o=note:31
+8 Portato 5,0 Loop
+
+//! c=legato i=portato o=note:32
+9 Portato 2,8 Fortissimo
+
+//! g="IK Multimedia/Miroslav Philharmonik 2" n="Solo English Horn"
+//! m="Set patch to UACC"
+//! id=00e1bcb3-84b6-4398-b035-855d0c66bb6d
+Bank * * IKMP2 - Solo English Horn
+
+//! c=long i=sustain o=note:24
+1 Sustain
+
+//! c=long i=sustain o=note:25
+2 Sustain Loop
+
+//! c=short i=staccato o=note:26
+3 Staccato
+
+//! c=short i=staccato o=note:27
+4 Staccato Forzato
+
+//! c=legato i=portato o=note:28
+5 Portato 1,0
+
+//! c=legato i=portato o=note:29
+6 Portato 1,5
+
+//! c=legato i=portato o=note:30
+7 Portato 2,0
+
+//! c=legato i=portato o=note:31
+8 Portato Fortissimo
+
+//! c=legato i=legato o=note:32
+9 Legato Normal
+
+//! c=legato i=legato o=note:33
+10 Legato Fast
+
+//! c=legato i=legato o=note:34
+11 Legato Faster
+
+//! c=legato i=legato o=note:35
+12 Legato Fastest
+
+//! g="IK Multimedia/Miroslav Philharmonik 2" n="Solo Bassoon"
+//! m="Set patch to UACC"
+//! id=17f7f001-f350-4ea9-919c-15ae4d7640a0
+Bank * * IKMP2 - Solo Bassoon
+
+//! c=long i=sustain o=note:24
+1 Sustain
+
+//! c=long i=sustain o=note:25
+2 Sustain Loop
+
+//! c=long i=sustain o=note:26
+3 Sustain Espressivo
+
+//! c=short i=staccato o=note:27
+4 Staccato
+
+//! c=short i=staccato o=note:28
+5 Staccato Sharp
+
+//! c=legato i=portato o=note:29
+6 Portato 1,5
+
+//! c=legato i=portato o=note:30
+7 Portato 2,5
+
+//! c=legato i=legato o=note:31
+8 Legato Slow
+
+//! c=legato i=legato o=note:32
+9 Legato Fast
+
+//! c=legato i=legato o=note:33
+10 Legato Fastest
+
+//! g="IK Multimedia/Miroslav Philharmonik 2" n="Solo Contrabassoon"
+//! m="Set patch to UACC"
+//! id=9ed53cce-7967-4241-9591-151e3a96a92d
+Bank * * IKMP2 - Solo Contrabassoon
+
+//! c=long i=sustain o=note:60
+1 Sustain A
+
+//! c=long i=sustain o=note:61
+2 Sustain B
+
+//! c=long i=sustain o=note:62
+3 Sustain Loop
+
+//! c=short i=staccato o=note:63
+4 Staccato
+
+//! c=legato i=portato o=note:64
+5 Portato 1,0
+
+//! c=legato i=portato o=note:65
+6 Portato 2,0
+
+//! c=legato i=portato o=note:66
+7 Portato 3,0
+
+//! c=legato i=portato o=note:67
+8 Portato 3,5
+
+//! c=legato i=legato o=note:68
+9 Legato Slow
+
+//! c=legato i=legato o=note:69
+10 Legato Fast
+
+//! c=legato i=legato o=note:70
+11 Legato Fastest
+
+//! c=long-light i=trill o=note:71
+12 Trills
